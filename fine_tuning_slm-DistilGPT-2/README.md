@@ -1,0 +1,1 @@
+fine-tuning small language model, specifically DistilGPT-2, to predict diseases based on symptoms using the Symptoms and Disease Dataset from Hugging Face
